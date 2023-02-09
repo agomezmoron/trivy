@@ -39,7 +39,7 @@ var (
 	acceptedExtensions = []string{
 		".asp", ".aspx", ".bas", ".bat", ".b", ".c", ".cue", ".cgi", ".cs", ".css", ".fish", ".html", ".h", ".ini",
 		".java", ".js", ".jsx", ".markdown", ".md", ".py", ".php", ".pl", ".r", ".rb", ".sh", ".sql", ".ts",
-		".tsx", ".txt", ".vue", ".zsh",
+		".tsx", ".txt", ".vue", ".zsh", ".json",
 	}
 
 	acceptedFileNames = []string{
